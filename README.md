@@ -1,2 +1,2 @@
 # Machine Learning In Python
-Using Library Neurolab
+Using Library Neurolab and PyBrain
